@@ -1,0 +1,11 @@
+:root {
+  --app-mobile-breakpoint: 478px;
+  --app-desktop-breakpoint: 1920px;
+  --app-tablet-breakpoint: 990px;
+
+  --color-secondary: #252525;
+  --color-primary: #f2e6b8;
+  --color-white: #ffffff;
+
+  --app-color-text: var(--color-secondary);
+}
